@@ -1,0 +1,5 @@
+- insert:
+    - id: githb-ranking
+      name: githb-ranking
+      config:
+        root: !!js dshHomePath('githb-ranking')
